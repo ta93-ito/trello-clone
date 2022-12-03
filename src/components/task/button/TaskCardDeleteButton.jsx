@@ -1,5 +1,5 @@
 import React from "react";
 
-export const AddTaskCardButton = () => {
+export const TaskCardDeleteButton = () => {
   return <div></div>;
 };

@@ -1,5 +1,5 @@
 import React from "react";
 
-export const AddTaskCardButton = () => {
+export const Tasks = () => {
   return <div></div>;
 };
